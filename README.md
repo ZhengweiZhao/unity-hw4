@@ -1,6 +1,4 @@
-3D Game Programming & Design：与游戏世界交互
-
-# 编程实践
+# 3D Game Programming & Design：与游戏世界交互
 ## 作业要求
 1、编写一个简单的鼠标打飞碟（Hit UFO）游戏
 
@@ -363,7 +361,6 @@ public class SSDirector : System.Object
 - 最后
 [视频链接-lose🔗](https://pan.baidu.com/s/1OSXf_q0FfOudWEw0LVEpFw)
 [视频链接-win🔗](https://pan.baidu.com/s/18hEiPcpG0MGBDyF8WQcvwQ)
-[我的Github代码传送门](https://github.com/ZhengweiZhao/Unity3D-HW2)
 
 =======
 # Unity3D-HW4
