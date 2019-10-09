@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿@[TOC](3D Game Programming & Design：与游戏世界交互)
+3D Game Programming & Design：与游戏世界交互
 
 # 编程实践
 ## 作业要求
