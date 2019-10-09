@@ -361,7 +361,3 @@ public class SSDirector : System.Object
 - 最后
 [视频链接-lose🔗](https://pan.baidu.com/s/1OSXf_q0FfOudWEw0LVEpFw)
 [视频链接-win🔗](https://pan.baidu.com/s/18hEiPcpG0MGBDyF8WQcvwQ)
-
-=======
-# Unity3D-HW4
->>>>>>> d1e5050340935aeb5f4eb5441a14813c7f87e3b4
