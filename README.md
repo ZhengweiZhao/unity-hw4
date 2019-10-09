@@ -358,6 +358,13 @@ public class SSDirector : System.Object
 ```
 - UserGUI（）；用户交互类，主要就是一些游戏界面设置，就不贴代码了，见GitHub。
 
+## 游戏界面效果
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191009111516374.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191009111503316.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191009111435317.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDM3NzY5MQ==,size_16,color_FFFFFF,t_70)
+
 - 最后
+
 [视频链接-lose🔗](https://pan.baidu.com/s/1OSXf_q0FfOudWEw0LVEpFw)
+
 [视频链接-win🔗](https://pan.baidu.com/s/18hEiPcpG0MGBDyF8WQcvwQ)
